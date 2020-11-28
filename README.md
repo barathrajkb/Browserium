@@ -25,7 +25,7 @@ private void urlbx_KeyDown(object sender, KeyEventArgs e)
     Note: important application files are stored in the folder, Do not delete the folder. 
     For better experience store the folder in the C:\ Drive in your System
     
-1. Download the latest .zip release and unzip it
+1. Download the latest .zip release from the releases tab and unzip it
 
 2. Unzip and run ``Browserium.exe``
 
@@ -86,7 +86,7 @@ Entity Framework 6 tools
 Windows 10 SDK (10.0.18362.0)
 Windows 10 SDK (10.0.19041.0)
 ```
-Get the project Source code from This link and unzip it :
+Get the project Source code from This link and unzip it : https://drive.google.com/drive/folders/1fy1RdKtiRb-r6TAz5N7ThurVVO8jMtaI?usp=sharing
 
 - Open your Visual Studio and complete the setup process.
 - Click on open a project or solution, Navigate to the unzipped folder and select .sln file
