@@ -1,4 +1,4 @@
-# Browserium ![ico](/readme-assets/favicon.png)
+#   ![ico](/readme-assets/favicon.png) Browserium 
 
 #### Browserium is a simple and secure Web Browser
 
