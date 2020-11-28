@@ -29,7 +29,7 @@ private void urlbx_KeyDown(object sender, KeyEventArgs e)
 
 2. Unzip and run ``Browserium.exe``
 
-3. Right-Click the ``Browserium.exe`` > file and send to > Desktop(Create Shortcut)........(optional)
+3. Right-Click the ``Browserium.exe`` file > and send to > Desktop(Create Shortcut)........(optional)
 
 ### Development
     Note: You need a x64 architecture PC
