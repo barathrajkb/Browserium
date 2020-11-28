@@ -22,7 +22,8 @@ private void urlbx_KeyDown(object sender, KeyEventArgs e)
 ### Get Browserium
 #### No installation required
 
-    Note: important application files are stored in the folder, Do not delete the folder. For beter experience store the folder in the C:\ Drive in your System
+    Note: important application files are stored in the folder, Do not delete the folder. 
+    For better experience store the folder in the C:\ Drive in your System
     
 1. Download the latest .zip release and unzip it
 
