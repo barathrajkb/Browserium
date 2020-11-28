@@ -35,7 +35,7 @@ private void urlbx_KeyDown(object sender, KeyEventArgs e)
     Note: You need a x64 architecture PC
 Want to build for yourself or contribute? Great!
 
-Get Visual Studio from "https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16" to develop the browser for your own
+Get Visual Studio from "https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16"
 While installing Visual Studio Community 2019 select these individual components:
 ```
 .NET 5.0 Runtime
