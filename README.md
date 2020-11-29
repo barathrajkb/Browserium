@@ -47,7 +47,7 @@ While installing Visual Studio Community 2019 select these individual components
 .NET Framework 4.5.2 targeting pack
 .NET Framework 4.6 targeting pack
 .NET Framework 4.6.1 targeting pack
->NET Framework 4.7.2 targeting pack
+.NET Framework 4.7.2 targeting pack
 .NET Framework 4.8 SDK
 .NET Native
 .NET SDK
